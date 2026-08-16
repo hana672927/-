@@ -155,4 +155,3 @@ export function Navbar({ onOpenCart, onOpenWishlist, onSearch, query, onAdminAcc
 }
 
 
-export { Navbar }
